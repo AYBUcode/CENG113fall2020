@@ -1,1 +1,1 @@
-print("merve")
+print("ada..")
